@@ -1,0 +1,74 @@
+@font-face {
+    font-family: RobotoMono;
+    src: url('/fonts/RobotoMono/RobotoMono-Italic-VariableFont_wght.ttf');
+
+    font-family: Montseratt;
+    src: url('/fonts/Montseratt/Montserrat-Italic-VariableFont_wght.ttf');
+
+    font-family: Roboto;
+    src: url('fonts/Roboto/Roboto-Regular.ttf');
+
+    font-family: SFMono;
+    src: url('fonts/SFMono/SFMono-Regular.otf');
+}
+
+
+button {
+    border-radius: 15px;
+    height: 35px;
+    width: 90px;
+    background-color: blue;
+    border: 1px;
+    color: white;
+}
+
+button:hover {
+    border-radius: 15px;
+    height: 35px;
+    width: 90px;
+    background-color: white;
+    border: 1px solid;
+    color: black;
+}
+
+.divbutton{
+    text-align: right;
+}
+
+.roboto1 {
+    font-family: "Roboto" serif;
+    font-size: 1em;
+    margin-bottom: 16px;
+    font-size: 0.85em;
+}
+
+.sfmono {
+    font-family: "SFMono" sans-serif;
+}
+
+div {
+    width: 94%;
+    margin-left: 3%;
+    background: #aac0d6;
+    border-radius: 3px;
+    padding: 16px;
+}
+
+p {
+    text-align: ce;
+    font-weight: 500;
+    line-height: 1.7;
+    color: #999988;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}

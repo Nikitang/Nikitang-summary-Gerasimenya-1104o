@@ -1,9 +1,15 @@
 @font-face {
     font-family: RobotoMono;
-    src: url('/fonts/Roboto/RobotoMono-VariableFont_wght.ttf');
+    src: url('/fonts/RobotoMono/RobotoMono-Italic-VariableFont_wght.ttf');
 
     font-family: Montseratt;
     src: url('/fonts/Montseratt/Montserrat-Italic-VariableFont_wght.ttf');
+
+    font-family: Roboto;
+    src: url('fonts/Roboto/Roboto-Regular.ttf');
+
+    font-family: SFMono;
+    src: url('fonts/SFMono/SFMono-Regular.otf');
 }
 
 body {

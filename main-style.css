@@ -1,0 +1,85 @@
+@font-face {
+    font-family: RobotoMono;
+    src: url('/fonts/Roboto/RobotoMono-VariableFont_wght.ttf');
+
+    font-family: Montseratt;
+    src: url('/fonts/Montseratt/Montserrat-Italic-VariableFont_wght.ttf');
+}
+
+body {
+    background: linear-gradient(white, orange, red);
+    font-family: 'RobotoMono';
+    margin: 0;
+    font-size: 18px;
+    font-weight: 400;
+    color: #212529;
+}
+
+head {
+    height: 50px;
+    width: 50px;
+    font-size: 0.8em;
+}
+
+.titleh {
+font-family: "Montserrat";
+text-align: left;
+padding-top: 6px;
+padding-bottom: 6px;
+padding-left: 10px;
+padding-right: 10px;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+h2 {
+    font-size: 1em;
+}
+
+.collor {
+    background-color: #8abec0;
+}
+
+.wid {
+    width: 400px;
+    height: 300px;
+    font-family: "Montserrat";
+    font-size: 1em;
+    background: linear-gradient(red, orange, white);
+    border-radius: 24px;
+}
+
+.column {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.redit {
+
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
+
+.shadow:hover {
+    box-shadow: 8px 10px 5px 2px;
+}
+
+.flexdiv {
+    display: flex;
+}
+
+.divhex {
+    display: flex;
+    right: 1001px;
+    margin-left: 650px;
+    margin-right: 650px;
+}

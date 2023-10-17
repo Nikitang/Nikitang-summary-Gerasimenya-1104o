@@ -47,18 +47,18 @@ button:hover {
 }
 
 div {
-    width: 94%;
-    margin-left: 3%;
+    width: 90%;
+    margin-left: 5%;
     background: #aac0d6;
     border-radius: 3px;
     padding: 16px;
 }
 
 p {
-    text-align: ce;
+    text-align: center;
     font-weight: 500;
     line-height: 1.7;
-    color: #999988;
+    color: rgb(39, 28, 28);
 }
 
 h1 {
@@ -71,4 +71,7 @@ h2 {
 
 h3 {
     text-align: center;
+}
+b {
+    color: rgb(161, 123, 123);
 }
